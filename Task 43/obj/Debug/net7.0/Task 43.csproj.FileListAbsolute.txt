@@ -1,0 +1,5 @@
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\С#Семинар6\Task 43\obj\Debug\net7.0\Task 43.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\С#Семинар6\Task 43\obj\Debug\net7.0\Task 43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\С#Семинар6\Task 43\obj\Debug\net7.0\Task 43.AssemblyInfoInputs.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\С#Семинар6\Task 43\obj\Debug\net7.0\Task 43.AssemblyInfo.cs
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\С#Семинар6\Task 43\obj\Debug\net7.0\Task 43.csproj.CoreCompileInputs.cache
